@@ -103,7 +103,7 @@ According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 
-<img width="900" height="500" alt="WhatsApp Image 2026-11-17 at 8 16 16 PM" src="https://github.com/user-attachments/assets/c258a5ed-b5c5-4b04-b243-6ed330443282" />
+<img width="600" height="500" alt="WhatsApp Image 2026-11-17 at 8 16 16 PM" src="https://github.com/user-attachments/assets/c258a5ed-b5c5-4b04-b243-6ed330443282" />
 
 
 **Figure 5:** KVL calculation
@@ -114,7 +114,7 @@ According to KCL, **It = I1 + I2 + I3**.
 
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
-<img width="1200" height="1600" alt="result" src="https://github.com/user-attachments/assets/dcf865a5-005b-4b1e-90bc-001f8a12b4f9" />
+<img width="800" height="1000" alt="result" src="https://github.com/user-attachments/assets/dcf865a5-005b-4b1e-90bc-001f8a12b4f9" />
 
 
 **Figure 6:** KCL calculation
