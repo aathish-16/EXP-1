@@ -103,7 +103,7 @@ According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 
-<img width="1147" height="1323" alt="WhatsApp Image 2026-11-17 at 8 16 16 PM" src="https://github.com/user-attachments/assets/c258a5ed-b5c5-4b04-b243-6ed330443282" />
+<img width="900" height="500" alt="WhatsApp Image 2026-11-17 at 8 16 16 PM" src="https://github.com/user-attachments/assets/c258a5ed-b5c5-4b04-b243-6ed330443282" />
 
 
 **Figure 5:** KVL calculation
